@@ -11,8 +11,11 @@ redirect_from:
 
 
 My name is Raul but online I am called Racs11, I learned programming from an early age just to develop games
+<br>
 I love programming is one of my passions and I try to leave my mark on everything I work on
+<br>
 I am always open to talk and discuss about my hobbies or interests, I don't bite! 
+<br>
 
 Skills
 ======
