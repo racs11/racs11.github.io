@@ -21,7 +21,7 @@ Skills
 1. Version control such as Github and ClearCase
 1. Testing tools such as selenium
 1. Certified on Game design by the "Universidad autonoma de Barcelona"  
-1. Knoledge of design patterns and SOLID concepts 
+1. Knowledge of design patterns and SOLID concepts 
 
 Hobbies
 ------

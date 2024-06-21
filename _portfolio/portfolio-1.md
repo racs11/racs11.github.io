@@ -1,6 +1,6 @@
 ---
 title: "Pan y cebolla "
-excerpt: "2D platformer where you try to make the perfect sandwich <br/><img src='/images/pan y cebolla cropped.png'>"
+excerpt: "2D platformer where you try to make the perfect sandwich <br/><img src='/images/panycebolla.png'>"
 collection: portfolio
 ---
 
