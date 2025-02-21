@@ -8,8 +8,21 @@ collection: portfolio
 
 Developed this game for a class with the help of a friend, I mostly did enemy AI and level design for the game as well as some enviroment mechanics such as vanishing blocks and moving death walls
 <br>
+<br>
 <img src='/images/pyc1.jpg'>
+<br>
+<br>
+
 <img src='/images/pyc2.jpg'>
+<br>
+<br>
+
 <img src='/images/pyc3.jpg'>
+<br>
+<br>
+
 <img src='/images/pyc4.jpg'>
+<br>
+<br>
+
 <a href="https://github.com/SamuelA01641383/Pan-y-Cebolla" >Game repository </a>
