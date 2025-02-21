@@ -1,6 +1,6 @@
 ---
 title: "RavenWoods "
-excerpt: "A Mystery visual novel developed on unity with Fungus<br/><img src='/images/Raven.jpg'>"
+excerpt: "A Mystery visual novel developed on unity with Fungus<br/><img src='/images/Raven.png'>"
 collection: portfolio
 ---
 

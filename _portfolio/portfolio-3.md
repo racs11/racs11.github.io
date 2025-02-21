@@ -1,6 +1,6 @@
 ---
 title: "Paper Mario like game "
-excerpt: "A prototype of a 3D game with 2D graphics<br/><img src='/images/TXC.jpg'>"
+excerpt: "A prototype of a 3D game with 2D graphics <br/><img src='/images/TXC.png'>"
 collection: portfolio
 ---
 
