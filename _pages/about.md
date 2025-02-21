@@ -20,9 +20,8 @@ I am always open to talk and discuss about my hobbies or interests, I don't bite
 Skills
 ======
 1. Programming languages such as c++,c# and python
-1. Game engines such as Unity and Godot 
+1. Game engines such as Unity and Godot, haven't dipped my toes on UE but I am planning to at some point
 1. Version control such as Github and ClearCase
-1. Testing tools such as selenium
 1. Certified on Game design by the "Universidad autonoma de Barcelona"  
 1. Knowledge of design patterns and SOLID concepts 
 
