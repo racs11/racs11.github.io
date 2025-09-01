@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My nickname is Racs11 and I am a Game developer"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
