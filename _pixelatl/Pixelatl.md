@@ -17,9 +17,14 @@ Tambien me dedico a hacer achivement hunting en steam
 ## Juegos que me han inspirado recientemente
 ### Alan Wake / Remedy games
 Alan wake (2010) es mi juego favorito, desde su gameplay de acción con combates movidos hasta su narrativa espectacular, sin duda ha dejado una gran marca en mi y en como disfruto los juegos. Siempre estoy abierto a discutir sobre las obras de Remedy ya que tienen un espacio especial para mi
+<br>
+<br>
+<img src='/images/pyc1.jpg'>
+<br>
+<br>
 ### Void Stranger / system erasure
 Recientemente me embarque en la aventura de jugar la duologia que consiste en Zero ranger y Void Stranger y me quede fascinado con la creatividad y creacion de mundo de los desarrolladores del juego, sin duda es una experiencia que es mejor entrar a ciegas, sin embargo advierto que la dificultad de ambos juegos es brutal.
-
+<div class="tenor-gif-embed" data-postid="12700916161840167606" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/void-stranger-gray-voidstranger-zeroranger-void-gif-12700916161840167606">Void Stranger Gray GIF</a>from <a href="https://tenor.com/search/void+stranger-gifs">Void Stranger GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 Si te interesaría colaborar o hablar de juegos, puedes contactarme atravez de las siguientes redes:
 <br>
 Discord: racs11
