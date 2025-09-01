@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "Pixelatl"
+title: "pixelatl"
 #author_profile: true
 redirect_from: 
-  - /Pixelatl/
+  - /pixelatl/
 ---
 Un gusto conocerte! Me llamo Toño o puedes llamarme por mi nick "racs11" soy recien graduado del area de tecnologias computacionales
 
