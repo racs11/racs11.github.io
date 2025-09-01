@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Racs11"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him"  
   bio              : "Computer Science student and passionate gamedev"
   location         : "Zapopan,Guadalajara"
-  employer         : "Tecnologico de Monterrey"
+  employer         : "Oracle"
   uri              : # URL
   email            : "raulantoniocastillejos@hotmail.com" 
 
