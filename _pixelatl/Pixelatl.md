@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /pixelatl
 title: "pixelatl"
 #author_profile: true
 redirect_from: 
