@@ -11,7 +11,9 @@ realmente me gustaria colaborar con otros programadores,artistas,diseñadores o 
 actualmente tengo un trabajo de tiempo completo pero podria prestar de mis tardes para trabajar en proyectos.
 
 Tambien me dedico a hacer achivement hunting en Xbox
+<br>
 <a href="https://www.trueachievements.com/gamer/raultono+10"><img src="https://www.trueachievements.com/gamercards/raultono+10.png"/></a>
+<br>
 A veces subo cosas a youtube: 
 <a href="https://www.youtube.com/@racs1167">racs11</a>
 ## Proyectos recientes
