@@ -31,7 +31,17 @@ Dialogo del protagonista antes de iniciar el nivel
 <br>
 <br>
 Patrón de ataque de uno de los enemigos
-
+<br>
+<br>
+<video width="320" height="240" autoplay>
+  <source src="Untitled.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<br>
+<br>
+Gameplay
+<br>
+<br>
 ## Juegos que me han inspirado recientemente
 ### Alan Wake / Remedy games
 Alan wake (2010) es mi juego favorito, desde su gameplay de acción con combates movidos hasta su narrativa espectacular, sin duda ha dejado una gran marca en mi y en como disfruto los juegos. Siempre estoy abierto a discutir sobre las obras de Remedy ya que tienen un espacio especial para mi
