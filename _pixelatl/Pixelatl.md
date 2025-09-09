@@ -12,7 +12,7 @@ actualmente tengo un trabajo de tiempo completo pero podria prestar de mis tarde
 
 Tambien me dedico a hacer achivement hunting en Xbox
 <br>
-<a href="https://www.trueachievements.com/gamer/raultono+10"><img src="https://www.trueachievements.com/gamercards/raultono+10.png"/></a>
+<a href="https://www.trueachievements.com/gamer/raultono+10"><img src="/image/raultono10.png"/></a>
 <br>
 A veces subo cosas a youtube: 
 <a href="https://www.youtube.com/@racs1167">racs11</a>
@@ -33,7 +33,7 @@ Dialogo del protagonista antes de iniciar el nivel
 Patrón de ataque de uno de los enemigos
 <br>
 <br>
-<video width="1080" height="1920" autoplay>
+<video width="240" height="320" autoplay>
   <source src="/images/Untitled.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
