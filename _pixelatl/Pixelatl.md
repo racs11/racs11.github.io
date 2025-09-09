@@ -33,7 +33,7 @@ Dialogo del protagonista antes de iniciar el nivel
 Patrón de ataque de uno de los enemigos
 <br>
 <br>
-<video width="320" height="240" autoplay>
+<video width="1080" height="1920" autoplay>
   <source src="Untitled.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
